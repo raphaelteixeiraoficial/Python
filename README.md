@@ -1,7 +1,7 @@
 # Python
 Mini Curso de Python 3 - **Lançamento 20/11/2021**
 
-* Curso será desenvolvido para quem quer começar na linguagem de programação, abordando os conteúdos do Básico da linguagem de programação
+* Curso será desenvolvido para quem quer começar na linguagem de programação, abordando os conteúdos do Básico e necessários para avançar com seu desenvolvimento
 
 ## Conteúdo do Curso
 
@@ -42,12 +42,7 @@ Mini Curso de Python 3 - **Lançamento 20/11/2021**
   * Levantando exceções
 
 
-  
-  
-
-
-
-
+<br>
   
 # Um pouco sobre o Python
       
